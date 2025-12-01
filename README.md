@@ -15,8 +15,7 @@ The main goal is to **predict the actual temperature (`Temp`)** using these pred
 ---
 
 ## 📂 Project Structure
-
-- **weatherHistory.csv**   
+  
 - **Temperature_Prediction_OLS_Regression_&_Hypothesis_Testing_by_Kadasani_Bhuvana_Reddy_24XV1M0518.ipynb** 
 - **README.md**
 
