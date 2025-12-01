@@ -5,11 +5,6 @@ It applies **Ordinary Least Squares (OLS) regression** to model temperature base
 
 ---
 
-## 📂 Project Structure
-
-- **weatherHistory.csv**   
-- **Temperature_Prediction_OLS_Regression_&_Hypothesis_Testing_by_Kadasani_Bhuvana_Reddy_24XV1M0518.ipynb** 
-- **README.md**
 
   
 ## 🔍 Overview
@@ -18,6 +13,24 @@ The dataset contains weather measurements like temperature, humidity, wind speed
 The main goal is to **predict the actual temperature (`Temp`)** using these predictors and understand how each feature influences it.
 
 ---
+
+## 📂 Project Structure
+
+- **weatherHistory.csv**   
+- **Temperature_Prediction_OLS_Regression_&_Hypothesis_Testing_by_Kadasani_Bhuvana_Reddy_24XV1M0518.ipynb** 
+- **README.md**
+
+---
+
+## 📥 Dataset
+
+The project uses the weatherHistory.csv dataset for temperature prediction and statistical analysis.
+However, the dataset is too large for GitHub, so it cannot be included directly in the repository.
+
+**👉 Download the dataset here:**
+
+🔗 https://drive.google.com/file/d/1MXgMHEC8HmoW45fRaMJk3PahTZkBwL7f/view?usp=sharing
+
 
 ## 🛠️ Tools & Libraries
 
