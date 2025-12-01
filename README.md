@@ -8,7 +8,7 @@ It applies **Ordinary Least Squares (OLS) regression** to model temperature base
 ## 📂 Project Structure
 
 - **weatherHistory.csv**   
-- **Sales dashboard.png** 
+- **Temperature_Prediction_OLS_Regression_&_Hypothesis_Testing_by_Kadasani_Bhuvana_Reddy_24XV1M0518.ipynb** 
 - **README.md**
 
   
