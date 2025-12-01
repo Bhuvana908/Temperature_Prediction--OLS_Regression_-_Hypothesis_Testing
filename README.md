@@ -116,3 +116,4 @@ The OLS regression model effectively predicts temperature using multiple meteoro
 Statistical tests validate that each feature contributes meaningful information.  
 Seasonal, temporal, and weather-related variables all play a role in shaping daily temperature patterns.
 
+Created by **Kadasani Bhuvana Reddy**
